@@ -11,6 +11,6 @@ I enjoy solving problems through code, and exploring new tools and technologies.
 - Swift, SwiftUI
 - IntelliJ, Xcode
 
-## 📫 Let's Connect
+## 📫 Let's Connect 
 
-- ✉️ [LinkedIn]([https://www.linkedin.com/in/josua-friederichs-6ab023313/])
+- ✉️ [LinkedIn](https://www.linkedin.com/in/josua-friederichs-6ab023313/)
