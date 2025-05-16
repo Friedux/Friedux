@@ -8,6 +8,7 @@ I enjoy solving problems through code, and exploring new tools and technologies.
 
 ### ⚙️ Tech Stack
 - Java, Gradle
+- JavaScript
 - Swift, SwiftUI
 - IntelliJ, Xcode
 
