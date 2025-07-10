@@ -5,4 +5,4 @@
 - 🛠️ Tech I use: Java, JavaScript, Swift, Gradle, Xcode, IntelliJ  
 - 📫 Connect on [LinkedIn](https://www.linkedin.com/in/josua-friederichs-6ab023313/)
 
-![Snake animation](https://raw.githubusercontent.com/friedux/friedux/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://github.com/friedux/your-repo-name/blob/main/assets/snake.svg)
